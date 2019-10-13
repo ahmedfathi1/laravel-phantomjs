@@ -19,7 +19,7 @@ Using phantomjs client in laravel
 Via Composer
 
 ```bash
-$ composer require josh/laravel-phantomjs
+$ composer require ahmedzidan/laravel-phantomjs
 ```
 
 ## Config
